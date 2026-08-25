@@ -9,7 +9,8 @@ In my current role, I support risk reporting and analytics initiatives where I d
 What excites me about this opportunity is the chance to further strengthen my data engineering expertise, work with modern data platforms and cloud technologies, and contribute to building scalable data solutions that drive business value.
 
 
-
+TELL ME A PROJECT YOU'VE BEEN MOST PROUD OF:
+  "One project I'm proud of is the Canada Commentary Input Application. It replaced a manual Excel and PowerPoint process with a centralized Power Platform solution. I designed the data flow, implemented automation, built Power BI reporting, and worked closely with stakeholders. The solution improved efficiency, reduced manual effort, and provided better visibility into the data."
 
   --------------------------------------------------------------------------------------------------------
 
