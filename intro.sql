@@ -64,9 +64,18 @@ TELL ME A PROJECT YOU'VE BEEN MOST PROUD OF:
   "Earlier in my career, I released a report update without fully validating all the data filters. As a result, some users saw incorrect results. I quickly investigated the issue, fixed it, communicated the update to stakeholders, and added additional validation checks before future releases."
   --------------------------------------------------------------------------------------------------------
 
+  14. How do you design a scalable data pipeline?
+
+"I design pipelines that are modular, reusable, and automated. I use incremental loading where possible, monitor performance, and ensure the solution can handle growing data volumes without major redesign."
+
+  15. How do you optimize a slow SQL query?
+
+"I review the execution plan, check indexes, avoid unnecessary joins, filter data early, and optimize the query logic to reduce processing time."
 
   
 
+
+  ---------------------------------------------------------------------------------------------------------
 /*=======================================
 --            QUESTIONS TO ASK
 =========================================*/
