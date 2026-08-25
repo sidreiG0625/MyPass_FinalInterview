@@ -9,6 +9,28 @@ In my current role, I support risk reporting and analytics initiatives where I d
 What excites me about this opportunity is the chance to further strengthen my data engineering expertise, work with modern data platforms and cloud technologies, and contribute to building scalable data solutions that drive business value.
 
 
+
+
+  --------------------------------------------------------------------------------------------------------
+
+1. HOW DO YOU ENSURE DATA QUALITY
+  
+"I ensure data quality by implementing validation checks at every stage of the ETL pipeline. During ingestion, I check for missing, duplicate, or invalid records. During transformation, I apply business rules, standardize data formats, and verify calculations. Before loading the data, I perform reconciliation checks by comparing record counts and key metrics against the source. I also automate monitoring and logging so any data issues are detected and addressed quickly. This ensures the data used for reporting and analytics is accurate, complete, and reliable."
+
+2. WHAT IS YOUR TYPICAL DAY AS A SENIOR AUTOMATION AND ANALYTICS ENGINEER
+  
+  " As a Senior Automation and Analytics Engineer, I start my day by reviewing the status of ongoing projects, checking automated workflows, data pipelines, and any issues that may affect our solutions. I make sure that PBI reporting, automated workflows, data pipelines are working as expected and address any issues that may have.
+
+  A significant part of my day involves engagement with stakeholder to understand reporting and business improvement requirements. I gather these requirements, translate them into technical solutions and design a scalable reporting solutions. I also build and maintain data pipelines and reporting using SQL and MS Powerplatform technologies to deliver executive dashboards that drives data-driven decisions.
+
+  As a senior engineer, I also revisit design solutions, documents processes, conducts product demos and mentoring new developers/engineers on some technical guidelines and best practices so that we can deliver a high quality solutions to our stakeholders.
+
+
+  --------------------------------------------------------------------------------------------------------
+
+
+  
+
 /*=======================================
 --            QUESTIONS TO ASK
 =========================================*/
